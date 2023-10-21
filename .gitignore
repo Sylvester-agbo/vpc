@@ -1,0 +1,13 @@
+.terraform
+terraform.log*
+.terraform.*
+package
+!terraform.tfvars
+terraform_0.14.9_linux_amd64.zip
+package-*
+terraform.tfstate
+terraform.tfstate.*
+key.asc
+terraform.sh.md
+git-ssh-*
+.github
